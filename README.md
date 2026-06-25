@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veereshsraykotmath" alt="veereshsraykotmath" /></a> </p>
 
-- 🔭 I’m  worked on [Agri-bot ai](https://github.com/AptPath-Internship/AgriBot-AI-powered-farming-assistant_April_Batch-9_2026)
+- 🔭 I have  worked on [Agri-bot ai](https://github.com/AptPath-Internship/AgriBot-AI-powered-farming-assistant_April_Batch-9_2026)
 
 - 🌱 I’m currently learning **Power BI , Django , Advance python**
 
